@@ -1,0 +1,39 @@
+\select@language {italian}
+\select@language {italian}
+\vspace {-\cftbeforechapskip }
+\contentsline {chapter}{\numberline {1}\spacedlowsmallcaps {Lezione I}}{1}{chapter.1}
+\contentsline {section}{\numberline {1.1}Esercitazione I}{1}{section.1.1}
+\contentsline {subsection}{\numberline {1.1.1}Esercizio 1}{1}{subsection.1.1.1}
+\contentsline {subsection}{\numberline {1.1.2}Esercizio 2}{1}{subsection.1.1.2}
+\contentsline {chapter}{\numberline {2}\spacedlowsmallcaps {Lezione II}}{3}{chapter.2}
+\contentsline {section}{\numberline {2.1}Esercitazione II}{3}{section.2.1}
+\contentsline {subsection}{\numberline {2.1.1}Esercizio 1}{3}{subsection.2.1.1}
+\contentsline {subsection}{\numberline {2.1.2}Esercizio 2}{4}{subsection.2.1.2}
+\contentsline {subsection}{\numberline {2.1.3}Esercizio 3}{6}{subsection.2.1.3}
+\contentsline {subsection}{\numberline {2.1.4}Esercizio 4}{8}{subsection.2.1.4}
+\contentsline {subsection}{\numberline {2.1.5}Esercizio 5}{10}{subsection.2.1.5}
+\contentsline {chapter}{\numberline {3}\spacedlowsmallcaps {Lezione III}}{17}{chapter.3}
+\contentsline {section}{\numberline {3.1}Esercitazione III}{17}{section.3.1}
+\contentsline {subsection}{\numberline {3.1.1}Esercizio 1}{17}{subsection.3.1.1}
+\contentsline {subsection}{\numberline {3.1.2}Esercizio 2}{17}{subsection.3.1.2}
+\contentsline {subsection}{\numberline {3.1.3}Esercizio 3}{18}{subsection.3.1.3}
+\contentsline {subsection}{\numberline {3.1.4}Esercizio 4}{19}{subsection.3.1.4}
+\contentsline {section}{\numberline {3.2}Esercitazione IV}{20}{section.3.2}
+\contentsline {subsection}{\numberline {3.2.1}Esercizio 1}{20}{subsection.3.2.1}
+\contentsline {subsection}{\numberline {3.2.2}Esercizio 2}{22}{subsection.3.2.2}
+\contentsline {subsection}{\numberline {3.2.3}Esercizio 3}{25}{subsection.3.2.3}
+\contentsline {section}{\numberline {3.3}Esercizio 4}{26}{section.3.3}
+\contentsline {chapter}{\numberline {4}\spacedlowsmallcaps {Lezione IV}}{29}{chapter.4}
+\contentsline {section}{\numberline {4.1}Esercitazione V}{29}{section.4.1}
+\contentsline {subsection}{\numberline {4.1.1}Esercizio 1}{29}{subsection.4.1.1}
+\contentsline {subsection}{\numberline {4.1.2}Esercizio 2}{31}{subsection.4.1.2}
+\contentsline {subsection}{\numberline {4.1.3}Esercizio 3}{31}{subsection.4.1.3}
+\contentsline {subsection}{\numberline {4.1.4}Esercizio 4}{33}{subsection.4.1.4}
+\contentsline {section}{\numberline {4.2}Esercitazione VI}{35}{section.4.2}
+\contentsline {subsection}{\numberline {4.2.1}Esercizio 1}{35}{subsection.4.2.1}
+\contentsline {subsection}{\numberline {4.2.2}Esercizio 2}{37}{subsection.4.2.2}
+\contentsline {subsection}{\numberline {4.2.3}Esercizio 3}{40}{subsection.4.2.3}
+\contentsline {chapter}{\numberline {5}\spacedlowsmallcaps {Lezione V}}{43}{chapter.5}
+\contentsline {section}{\numberline {5.1}Esercitazione VII}{43}{section.5.1}
+\contentsline {subsection}{\numberline {5.1.1}Esercizio 1}{43}{subsection.5.1.1}
+\contentsline {subsection}{\numberline {5.1.2}Esercizio 2}{44}{subsection.5.1.2}
